@@ -461,7 +461,7 @@ function App() {
           nonumy eirmod tempor invidunt ut labore et dolore magna
         </p>
         <img
-          src="https://github.com/EliezerBarrios/testfrontendeliezer/blob/fe8d5fa3ae1b38b377dd754e76eeda6d0cb79c76/public/icongrab.png"
+          src="public/icongrab.png"
           alt="prb_header"
           style={{ objectFit: "fill", height: "90px", width: "200px" }}
         />
