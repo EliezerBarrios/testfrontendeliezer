@@ -28,14 +28,14 @@ function App() {
       </header>
       <nav>
         <img
-          src="public\Prb_Header.png"
+          src="/public/Prb_Header.png"
           alt="prb_header"
           className="Navbackground"
         />
         <div className="contentNav">
           <div className="headerNav">
             <img
-              src="public\icongrab.png"
+              src="/public/icongrab.png"
               alt="grab"
               className="iconHeadernNav"
             />
@@ -114,7 +114,7 @@ function App() {
               dolor sit
             </p>
           </div>
-          <img src="public\Pic1.png" alt="pic1" className="imageFirstCard" />
+          <img src="/public/Pic1.png" alt="pic1" className="imageFirstCard" />
         </div>
         <div className="secondCard">
           <h1 style={{ fontSize: "56px" }}>Lorem ipsum</h1>
@@ -132,15 +132,15 @@ function App() {
           </p>
           <div className="secondCardContent">
             <div className="card">
-              <img src="public\Pic2.png" alt="pic2" className="cardImage" />
+              <img src="/public/Pic2.png" alt="pic2" className="cardImage" />
               <button className="btnCard">LOREM IPSUM</button>
             </div>
             <div className="card">
-              <img src="public\Pic3.png" alt="pic2" className="cardImage" />
+              <img src="/public/Pic3.png" alt="pic2" className="cardImage" />
               <button className="btnCard">LOREM IPSUM</button>
             </div>
             <div className="card">
-              <img src="public\Pic4.png" alt="pic2" className="cardImage" />
+              <img src="/public/Pic4.png" alt="pic2" className="cardImage" />
               <button className="btnCard">LOREM IPSUM</button>
             </div>
           </div>
@@ -156,7 +156,7 @@ function App() {
               LOREM IPSUM DOLOR SIT AMET
             </button>
           </div>
-          <img src="public\Pic5.png" alt="pic5" className="threeCardImage" />
+          <img src="/public/Pic5.png" alt="pic5" className="threeCardImage" />
         </div>
         <div className="fourCard">
           <h1 style={{ fontSize: "48px", fontWeight: "bold" }}>
@@ -169,7 +169,7 @@ function App() {
                 style={{ position: "absolute", color: "white" }}
               ></i>
               <img
-                src="public\Pic1.png"
+                src="/public/Pic1.png"
                 alt="file"
                 style={{ objectFit: "cover", maxWidth: "250px" }}
               />
@@ -183,7 +183,7 @@ function App() {
                 style={{ position: "absolute", color: "white" }}
               ></i>
               <img
-                src="public\Pic1.png"
+                src="/public/Pic1.png"
                 alt="file"
                 style={{ objectFit: "cover", maxWidth: "250px" }}
               />
@@ -197,7 +197,7 @@ function App() {
                 style={{ position: "absolute", color: "white" }}
               ></i>
               <img
-                src="public\Pic1.png"
+                src="/public/Pic1.png"
                 alt="file"
                 style={{ objectFit: "cover", maxWidth: "250px" }}
               />
@@ -211,7 +211,7 @@ function App() {
                 style={{ position: "absolute", color: "white" }}
               ></i>
               <img
-                src="public\Pic1.png"
+                src="/public/Pic1.png"
                 alt="file"
                 style={{ objectFit: "cover", maxWidth: "250px" }}
               />
@@ -225,7 +225,7 @@ function App() {
                 style={{ position: "absolute", color: "white" }}
               ></i>
               <img
-                src="public\Pic1.png"
+                src="/public/Pic1.png"
                 alt="file"
                 style={{ objectFit: "cover", maxWidth: "250px" }}
               />
@@ -239,7 +239,7 @@ function App() {
                 style={{ position: "absolute", color: "white" }}
               ></i>
               <img
-                src="public\Pic1.png"
+                src="/public/Pic1.png"
                 alt="file"
                 style={{ objectFit: "cover", maxWidth: "250px" }}
               />
@@ -252,7 +252,7 @@ function App() {
         </div>
         <div className="fiveCard">
           <img
-            src="public\Join Us.png"
+            src="/public/Join Us.png"
             alt="background"
             style={{
               position: "absolute",
@@ -392,7 +392,7 @@ function App() {
               VIEW ALL
             </button>
             <img
-              src="public\Pic6.png"
+              src="/public/Pic6.png"
               alt="background"
               style={{
                 height: "50%",
@@ -407,17 +407,17 @@ function App() {
           <h1 style={{ fontSize: "56px", color: "white" }}>Lorem ipsum</h1>
           <div style={{ display: "flex", gap: "5%" }}>
             <img
-              src="public\Pic7.png"
+              src="/public/Pic7.png"
               alt="pci"
               style={{ objectFit: "fill", width: "300px", height: "400px" }}
             />
             <img
-              src="public\Pic8.png"
+              src="/public/Pic8.png"
               alt="pci"
               style={{ objectFit: "fill", width: "300px", height: "400px" }}
             />
             <img
-              src="public\Pic9.png"
+              src="/public/Pic9.png"
               alt="pci"
               style={{ objectFit: "fill", width: "300px", height: "400px" }}
             />
