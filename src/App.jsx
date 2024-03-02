@@ -461,7 +461,7 @@ function App() {
           nonumy eirmod tempor invidunt ut labore et dolore magna
         </p>
         <img
-          src="public/icongrab.png"
+          src="/public/icongrab.png"
           alt="prb_header"
           style={{ objectFit: "fill", height: "90px", width: "200px" }}
         />
